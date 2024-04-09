@@ -1,1 +1,1 @@
-﻿# Mini Projects using CSS and JavaScript
+﻿# Mini Projects using HTML, CSS and JavaScript
